@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-const Footer = () => {
+function Footer (){
   return (
     <footer>
       <div>
