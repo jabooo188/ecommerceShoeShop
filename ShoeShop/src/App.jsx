@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 
 import './App.css'
 
@@ -17,9 +18,3 @@ function App (){
 
 export default App
 
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 8ec2ba02efdaff9f0b284521dfbb71bb38750347
