@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> bb420ae8dd5a8c16c2bb69b2bcf259dd43b9ee59
 import React from "react";
 
 function NavBar (){
@@ -42,6 +45,7 @@ function NavBar (){
     )
 }
 
+<<<<<<< HEAD
 export default NavBar
 =======
 
@@ -52,3 +56,6 @@ function () {
     )
 }
 >>>>>>> testing
+=======
+export default NavBar
+>>>>>>> bb420ae8dd5a8c16c2bb69b2bcf259dd43b9ee59
