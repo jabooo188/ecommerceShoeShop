@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 
 function NavBar (){
@@ -42,3 +43,12 @@ function NavBar (){
 }
 
 export default NavBar
+=======
+
+function () {
+
+    return (
+        
+    )
+}
+>>>>>>> testing
