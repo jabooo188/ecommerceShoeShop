@@ -6,12 +6,12 @@ function Footer (){
   return (
     <><main>
           <div >
-              Hola mundo
+              /**componentes*/
           </div>
       </main><footer>
               <div>
 
-                  <p>&copy; Shoe shoes 2024 Your Company. All rights reserved.</p>
+                  <p>&copy;  2024 Shoe shoes. All rights reserved.</p>
               </div>
           </footer></>
   );
